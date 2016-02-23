@@ -7,3 +7,7 @@
 * third item in list
 
 "Git is easy. Git is fun. Thanks Linus!"
+
+---
+Test
+"Adding lines from branch"
